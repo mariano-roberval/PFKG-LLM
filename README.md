@@ -23,9 +23,10 @@ pip install -r requirements.txt
 copy config.example.json config.json
 streamlit run app_identificador_de_candidatos.py
 
+
 ## Vídeos Associados:
 
-![Aba de Configuração com o botão de testar Agentes Ollama.mp4](https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba%20Execu%C3%A7%C3%A3o%20An%C3%A1lie%20e%20Consulta.mp4))
+https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba%20Execu%C3%A7%C3%A3o%20An%C3%A1lie%20e%20Consulta.mp4
 ![Aba Execução Análise e Consulta.mp4](Aba Execução Análie e Consulta.mp4)
 ![Aba Execução Análise e Consulta - Sem lista de CNPJ.mp4](Aba Execução Análie e Consulta - Sem lista de CNPJ.mp4)
 ![Aba Dashboard SBBD.mp4](Aba Dashboard SBBD.mp4)
