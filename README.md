@@ -10,12 +10,7 @@ Exemplo de Conversa dos Agentes Relacionados
 
 ## Vídeos Associados:
 
-https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba%20Execu%C3%A7%C3%A3o%20An%C3%A1lie%20e%20Consulta.mp4
-![Aba Execução Análise e Consulta.mp4](Aba Execução Análie e Consulta.mp4)
-![Aba Execução Análise e Consulta - Sem lista de CNPJ.mp4](Aba Execução Análie e Consulta - Sem lista de CNPJ.mp4)
-![Aba Dashboard SBBD.mp4](Aba Dashboard SBBD.mp4)
-![Aba Graph RAG.mp4](Aba Graph RAG.mp4)
-![Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4](Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4)
+
 
 ## Execução local
 
