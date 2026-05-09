@@ -1,3 +1,8 @@
+## PFKG-LLM: Exploração Guiada de Dados Fiscais em Larga Escala com Grafos de Conhecimento e LLMs
+
+Utiliza Agentes LLM locais desenvolvidos em CrewAI e Ollama, para exploração guiada em larga escala 
+em Grados de Conhecimentos (Knowledge Graph).
+
 ## Execução local
 
 1. Instale Python 3.11+.
