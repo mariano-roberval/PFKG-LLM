@@ -1,7 +1,15 @@
 ## PFKG-LLM: Exploração Guiada de Dados Fiscais em Larga Escala com Grafos de Conhecimento e LLMs
 
 Utiliza Agentes LLM locais desenvolvidos em CrewAI e Ollama, para exploração guiada em larga escala 
-em Grafos de Conhecimentos Fiscais ( Fiscal Knowledge Graph).
+em Grafos de Conhecimentos Fiscais (Fiscal Knowledge Graph).
+
+A seleção de quais empresas têm indícios de irregularidade, em ambiente de Big Data, com milhões de
+Documentos Fiscais eletrônicos dos últimos 5 anos de milhares de empresas podem chegar na faixa de 
+bilhões de dados corresponde a procurar uma agulha no palheiro. 
+
+Neste cenário, Agentes LLM, a partir de demandas em linguagem natural conseguem transformar a 
+requisição em consultas SPARQL, aplicar sobre os dados do triplestore e identificar quais são as
+candidatas para aprofundamento dos estudos.
 
 ![Fluxos Fiscais em Sankey](Fluxos_Fiscais_SANKEY.jpg)
 
