@@ -10,7 +10,11 @@ Exemplo de Conversa dos Agentes Relacionados
 
 ## Vídeos Associados:
 
+https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba_Execucao_Analise_e_Consulta-Sem_lista_de_CNPJ.mp4
+
 https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba_Execucao_Analise_e_Consulta.mp4
+
+https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba_Dashboard_SBBD.mp4
 
 https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba_de_Configuracao_com_o_botao_de_testar_Agentes_Ollama.mp4
 
