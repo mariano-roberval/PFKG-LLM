@@ -3,6 +3,10 @@
 Utiliza Agentes LLM locais desenvolvidos em CrewAI e Ollama, para exploração guiada em larga escala 
 em Grados de Conhecimentos Fiscais ( Fiscal Knowledge Graph).
 
+![Fluxos Fiscais em Sankey](Fluxos_Fiscais_SANKEY.jpg)
+
+![COnversa dos Agentes](Histórico_Conversa_dos_Agentes.jpg)
+
 ## Execução local
 
 1. Instale Python 3.11+.
