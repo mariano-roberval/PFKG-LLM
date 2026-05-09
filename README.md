@@ -8,6 +8,15 @@ em Grafos de Conhecimentos Fiscais ( Fiscal Knowledge Graph).
 Exemplo de Conversa dos Agentes Relacionados
 ![COnversa dos Agentes](Histórico_Conversa_dos_Agentes.jpg)
 
+## Vídeos Associados:
+
+https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba%20Execu%C3%A7%C3%A3o%20An%C3%A1lie%20e%20Consulta.mp4
+![Aba Execução Análise e Consulta.mp4](Aba Execução Análie e Consulta.mp4)
+![Aba Execução Análise e Consulta - Sem lista de CNPJ.mp4](Aba Execução Análie e Consulta - Sem lista de CNPJ.mp4)
+![Aba Dashboard SBBD.mp4](Aba Dashboard SBBD.mp4)
+![Aba Graph RAG.mp4](Aba Graph RAG.mp4)
+![Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4](Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4)
+
 ## Execução local
 
 1. Instale Python 3.11+.
@@ -22,13 +31,3 @@ python -m venv .venv
 pip install -r requirements.txt
 copy config.example.json config.json
 streamlit run app_identificador_de_candidatos.py
-
-
-## Vídeos Associados:
-
-https://github.com/mariano-roberval/PFKG-LLM/blob/main/Aba%20Execu%C3%A7%C3%A3o%20An%C3%A1lie%20e%20Consulta.mp4
-![Aba Execução Análise e Consulta.mp4](Aba Execução Análie e Consulta.mp4)
-![Aba Execução Análise e Consulta - Sem lista de CNPJ.mp4](Aba Execução Análie e Consulta - Sem lista de CNPJ.mp4)
-![Aba Dashboard SBBD.mp4](Aba Dashboard SBBD.mp4)
-![Aba Graph RAG.mp4](Aba Graph RAG.mp4)
-![Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4](Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4)
