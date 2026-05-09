@@ -1,0 +1,1 @@
+"""Serviços isolados por aplicação."""

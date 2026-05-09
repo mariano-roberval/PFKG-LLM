@@ -1,0 +1,13 @@
+{
+  "endpoint_url": "http://localhost:7202/repositories/KG_EFD_Demo",
+  "threshold": 30000,
+  "top_n": 50,
+  "limite_arestas": 1000,
+  "usar_crewai": false,
+  "usar_ollama": false,
+  "ollama_model": "llama3.1",
+  "ollama_timeout": 120,
+  "modo_espessura_aresta": "valor",
+  "gerar_excel": true,
+  "gerar_pdf": true
+}
