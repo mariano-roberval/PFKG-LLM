@@ -5,6 +5,7 @@ em Grafos de Conhecimentos Fiscais ( Fiscal Knowledge Graph).
 
 ![Fluxos Fiscais em Sankey](Fluxos_Fiscais_SANKEY.jpg)
 
+Exemplo de Conversa dos Agentes Relacionados
 ![COnversa dos Agentes](Histórico_Conversa_dos_Agentes.jpg)
 
 ## Execução local
