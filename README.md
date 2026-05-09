@@ -12,12 +12,16 @@ Neste cenário, Agentes LLM, a partir de demandas em linguagem natural conseguem
 requisição em consultas SPARQL, aplicar sobre os dados do triplestore e identificar quais são as
 candidatas para aprofundamento dos estudos.
 
+Conversa em Linguagem Natural com o Agente LLM
+![Pergunta_em_Linguagem_Natural](Pergunta_em_Linguagem_Natural.jpg)
+
 Exemplo de Conversa dos Agentes Relacionados
 ![Conversa dos Agentes](Histórico_Conversa_dos_Agentes.jpg)
 
 Resultados da Interação entre os Agentes
 ![Score_de_Risco das Empresas e Pessoas Físicas candidatas](Score_de_Risco.jpg)
 
+O Gráfico de Fluxo Sankey 
 ![Fluxos Fiscais SANKEY](Fluxos_Fiscais_SANKEY.jpg)
 
 
