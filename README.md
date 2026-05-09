@@ -23,3 +23,11 @@ pip install -r requirements.txt
 copy config.example.json config.json
 streamlit run app_identificador_de_candidatos.py
 
+## Vídeos Associados:
+
+![Aba de Configuração com o botão de testar Agentes Ollama.mp4](Aba de Configuração com o botão de testar Agentes Ollama.mp4)
+![Aba Execução Análise e Consulta.mp4](Aba Execução Análie e Consulta.mp4)
+![Aba Execução Análise e Consulta - Sem lista de CNPJ.mp4](Aba Execução Análie e Consulta - Sem lista de CNPJ.mp4)
+![Aba Dashboard SBBD.mp4](Aba Dashboard SBBD.mp4)
+![Aba Graph RAG.mp4](Aba Graph RAG.mp4)
+![Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4](Aba Graph RAG - A pergunta aos Agentes e a resposta deles.mp4)
