@@ -7,11 +7,12 @@ A seleção de quais empresas têm indícios de irregularidade, em ambiente de B
 Documentos Fiscais eletrônicos dos últimos 5 anos de milhares de empresas podem chegar na faixa de 
 bilhões de dados corresponde a procurar uma agulha no palheiro. 
 
+
 Neste cenário, Agentes LLM, a partir de demandas em linguagem natural conseguem transformar a 
 requisição em consultas SPARQL, aplicar sobre os dados do triplestore e identificar quais são as
 candidatas para aprofundamento dos estudos.
 
-![Fluxos Fiscais em Sankey](Fluxos_Fiscais_SANKEY.jpg)
+![Score_de_Risco das Empresas e Pessoas Físicas candidatas](Score_de_Risco.jpg)
 
 Exemplo de Conversa dos Agentes Relacionados
 ![COnversa dos Agentes](Histórico_Conversa_dos_Agentes.jpg)
